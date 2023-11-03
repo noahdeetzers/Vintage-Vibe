@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JucePresetManager presetName="Dry n' Clean">
+  <PARAM id="feedback" value="0.949999988079071"/>
+  <PARAM id="mix" value="1.0"/>
+  <PARAM id="sync" value="1.0"/>
+  <PARAM id="time" value="1234.0"/>
+  <PARAM id="type" value="2.0"/>
+  <PARAM id="BASSGAIN"/>
+  <PARAM id="CABYPASS"/>
+  <PARAM id="DELAYAMOUNT"/>
+  <PARAM id="DELAYBYPASS" value="0.0"/>
+  <PARAM id="DELAYFEEDBACK"/>
+  <PARAM id="DELAYHIGHPASSFREQ"/>
+  <PARAM id="DELAYLOWPASSFREQ"/>
+  <PARAM id="DELAYTIME"/>
+  <PARAM id="DELAYWIDTH"/>
+  <PARAM id="HAASBYPASS"/>
+  <PARAM id="HAASDELAYAMOUNT"/>
+  <PARAM id="HAASSIDE"/>
+  <PARAM id="INPUTGAIN"/>
+  <PARAM id="MIDGAIN"/>
+  <PARAM id="OUTPUTGAIN"/>
+  <PARAM id="OVERDRIVEAMOUNT"/>
+  <PARAM id="OVERDRIVEBIAS"/>
+  <PARAM id="OVERDRIVEBYPASS"/>
+  <PARAM id="OVERDRIVELEVEL"/>
+  <PARAM id="OVERDRIVETONE"/>
+  <PARAM id="PAGESELECTOR" value="0.0"/>
+  <PARAM id="PLUS15DB"/>
+  <PARAM id="REVERBAMOUNT"/>
+  <PARAM id="REVERBHIGHPASSFREQ"/>
+  <PARAM id="REVERBLOWPASSFREQ"/>
+  <PARAM id="REVERBSELECTOR"/>
+  <PARAM id="REVERBYPASS" value="0.0"/>
+  <PARAM id="TREBLEGAIN"/>
+</JucePresetManager>

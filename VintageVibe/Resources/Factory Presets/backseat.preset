@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<savedParams presetName="backseat new" version="1.0.8">
+  <PARAM id="BASSGAIN" value="4.749999523162842"/>
+  <PARAM id="CABYPASS"/>
+  <PARAM id="DELAYAMOUNT" value="30.0"/>
+  <PARAM id="DELAYBYPASS" value="0.0"/>
+  <PARAM id="DELAYDIVISION" value="0.0"/>
+  <PARAM id="DELAYFEEDBACK"/>
+  <PARAM id="DELAYHIGHPASSFREQ"/>
+  <PARAM id="DELAYLOWPASSFREQ"/>
+  <PARAM id="DELAYSNAP" value="0.0"/>
+  <PARAM id="DELAYTIME" value="0.0"/>
+  <PARAM id="DELAYWIDTH" value="70.0"/>
+  <PARAM id="HAASBYPASS" value="1.0"/>
+  <PARAM id="HAASDELAYAMOUNT" value="16.76000022888184"/>
+  <PARAM id="HAASSIDE" value="1.0"/>
+  <PARAM id="INPUTGAIN" value="0.7583999633789062"/>
+  <PARAM id="MIDGAIN" value="4.729999542236328"/>
+  <PARAM id="OUTPUTGAIN" value="2.006298065185547"/>
+  <PARAM id="OVERDRIVEAMOUNT" value="11.80000019073486"/>
+  <PARAM id="OVERDRIVEBIAS" value="0.0"/>
+  <PARAM id="OVERDRIVEBYPASS" value="1.0"/>
+  <PARAM id="OVERDRIVELEVEL"/>
+  <PARAM id="OVERDRIVETONE" value="20000.0"/>
+  <PARAM id="PAGESELECTOR"/>
+  <PARAM id="PLUS15DB" value="0.0"/>
+  <PARAM id="REVERBAMOUNT" value="62.84000015258789"/>
+  <PARAM id="REVERBHIGHPASSFREQ" value="82.41999816894531"/>
+  <PARAM id="REVERBLOWPASSFREQ"/>
+  <PARAM id="REVERBSELECTOR" value="2.0"/>
+  <PARAM id="REVERBYPASS" value="1.0"/>
+  <PARAM id="TREBLEGAIN" value="5.449999809265137"/>
+</savedParams>

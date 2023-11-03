@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JucePresetManager presetName="massive roomy rhythm 2">
+  <PARAM id="feedback" value="0.949999988079071"/>
+  <PARAM id="mix" value="1.0"/>
+  <PARAM id="sync" value="1.0"/>
+  <PARAM id="time" value="1234.0"/>
+  <PARAM id="type" value="2.0"/>
+  <PARAM id="BASSGAIN" value="-4.470348358154297e-7"/>
+  <PARAM id="CABYPASS"/>
+  <PARAM id="DELAYAMOUNT" value="28.47999954223633"/>
+  <PARAM id="DELAYBYPASS" value="0.0"/>
+  <PARAM id="DELAYFEEDBACK" value="31.09999847412109"/>
+  <PARAM id="DELAYHIGHPASSFREQ"/>
+  <PARAM id="DELAYLOWPASSFREQ" value="3030.050048828125"/>
+  <PARAM id="DELAYTIME" value="9417.189453125"/>
+  <PARAM id="DELAYWIDTH" value="33.46999740600586"/>
+  <PARAM id="HAASBYPASS" value="0.0"/>
+  <PARAM id="HAASDELAYAMOUNT" value="35.59999847412109"/>
+  <PARAM id="HAASSIDE"/>
+  <PARAM id="INPUTGAIN" value="-7.578637450933456e-7"/>
+  <PARAM id="MIDGAIN" value="-2.235174179077148e-7"/>
+  <PARAM id="OUTPUTGAIN" value="4.72969913482666"/>
+  <PARAM id="OVERDRIVEAMOUNT" value="10.0"/>
+  <PARAM id="OVERDRIVEBIAS" value="0.2299999743700027"/>
+  <PARAM id="OVERDRIVEBYPASS" value="1.0"/>
+  <PARAM id="OVERDRIVELEVEL" value="-8.670000076293945"/>
+  <PARAM id="OVERDRIVETONE"/>
+  <PARAM id="PAGESELECTOR" value="0.0"/>
+  <PARAM id="PLUS15DB" value="1.0"/>
+  <PARAM id="REVERBAMOUNT" value="30.42999839782715"/>
+  <PARAM id="REVERBHIGHPASSFREQ" value="10.0"/>
+  <PARAM id="REVERBLOWPASSFREQ"/>
+  <PARAM id="REVERBSELECTOR" value="2.0"/>
+  <PARAM id="REVERBYPASS" value="1.0"/>
+  <PARAM id="TREBLEGAIN" value="-2.235174179077148e-7"/>
+  <PARAM id="DELAYDIVISION" value="0.0"/>
+  <PARAM id="DELAYSNAP" value="0.0"/>
+</JucePresetManager>

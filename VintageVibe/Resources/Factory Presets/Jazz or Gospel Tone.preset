@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JucePresetManager presetName="Jazz or Gospel Tone">
+  <PARAM id="feedback" value="0.949999988079071"/>
+  <PARAM id="mix" value="1.0"/>
+  <PARAM id="sync" value="1.0"/>
+  <PARAM id="time" value="1234.0"/>
+  <PARAM id="type" value="2.0"/>
+  <PARAM id="BASSGAIN" value="-7.550000190734863"/>
+  <PARAM id="CABYPASS"/>
+  <PARAM id="DELAYAMOUNT"/>
+  <PARAM id="DELAYBYPASS" value="0.0"/>
+  <PARAM id="DELAYFEEDBACK"/>
+  <PARAM id="DELAYHIGHPASSFREQ"/>
+  <PARAM id="DELAYLOWPASSFREQ"/>
+  <PARAM id="DELAYTIME"/>
+  <PARAM id="DELAYWIDTH"/>
+  <PARAM id="HAASBYPASS"/>
+  <PARAM id="HAASDELAYAMOUNT"/>
+  <PARAM id="HAASSIDE"/>
+  <PARAM id="INPUTGAIN"/>
+  <PARAM id="MIDGAIN" value="2.759999752044678"/>
+  <PARAM id="OUTPUTGAIN" value="10.75869941711426"/>
+  <PARAM id="OVERDRIVEAMOUNT"/>
+  <PARAM id="OVERDRIVEBIAS"/>
+  <PARAM id="OVERDRIVEBYPASS"/>
+  <PARAM id="OVERDRIVELEVEL"/>
+  <PARAM id="OVERDRIVETONE"/>
+  <PARAM id="PAGESELECTOR" value="0.0"/>
+  <PARAM id="PLUS15DB"/>
+  <PARAM id="REVERBAMOUNT" value="30.31999969482422"/>
+  <PARAM id="REVERBHIGHPASSFREQ"/>
+  <PARAM id="REVERBLOWPASSFREQ"/>
+  <PARAM id="REVERBSELECTOR" value="1.0"/>
+  <PARAM id="REVERBYPASS" value="1.0"/>
+  <PARAM id="TREBLEGAIN" value="-3.330000162124634"/>
+  <PARAM id="DELAYDIVISION"/>
+  <PARAM id="DELAYSNAP"/>
+</JucePresetManager>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JucePresetManager presetName="RnB Sparkle">
+  <PARAM id="feedback" value="0.949999988079071"/>
+  <PARAM id="mix" value="1.0"/>
+  <PARAM id="sync" value="1.0"/>
+  <PARAM id="time" value="1234.0"/>
+  <PARAM id="type" value="2.0"/>
+  <PARAM id="BASSGAIN"/>
+  <PARAM id="CABYPASS"/>
+  <PARAM id="DELAYAMOUNT" value="28.47999954223633"/>
+  <PARAM id="DELAYBYPASS" value="1.0"/>
+  <PARAM id="DELAYFEEDBACK" value="31.09999847412109"/>
+  <PARAM id="DELAYHIGHPASSFREQ"/>
+  <PARAM id="DELAYLOWPASSFREQ" value="3030.050048828125"/>
+  <PARAM id="DELAYTIME" value="18299.689453125"/>
+  <PARAM id="DELAYWIDTH" value="33.46999740600586"/>
+  <PARAM id="HAASBYPASS"/>
+  <PARAM id="HAASDELAYAMOUNT"/>
+  <PARAM id="HAASSIDE"/>
+  <PARAM id="INPUTGAIN" value="7.558097839355469"/>
+  <PARAM id="MIDGAIN" value="-1.690000534057617"/>
+  <PARAM id="OUTPUTGAIN" value="0.0"/>
+  <PARAM id="OVERDRIVEAMOUNT"/>
+  <PARAM id="OVERDRIVEBIAS"/>
+  <PARAM id="OVERDRIVEBYPASS"/>
+  <PARAM id="OVERDRIVELEVEL"/>
+  <PARAM id="OVERDRIVETONE"/>
+  <PARAM id="PAGESELECTOR" value="0.0"/>
+  <PARAM id="PLUS15DB" value="0.0"/>
+  <PARAM id="REVERBAMOUNT" value="33.25"/>
+  <PARAM id="REVERBHIGHPASSFREQ"/>
+  <PARAM id="REVERBLOWPASSFREQ"/>
+  <PARAM id="REVERBSELECTOR" value="0.0"/>
+  <PARAM id="REVERBYPASS" value="1.0"/>
+  <PARAM id="TREBLEGAIN" value="2.090000152587891"/>
+</JucePresetManager>
