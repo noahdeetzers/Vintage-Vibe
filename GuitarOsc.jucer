@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="GPGetJ" name="Vintage Vibe" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.9"
+              companyName="Fine Classics Plugins" companyWebsite="https://fineclassicsplugins.com/"
+              companyEmail="ryanfitzrecordings@gmail.com" pluginFormats="buildAAX,buildAU,buildVST3"
+              pluginVST3Category="Fx" pluginAAXCategory="64">
+  <MAINGROUP id="XmRBIL" name="Vintage Vibe">
+    <GROUP id="{7B5BDDD5-88C9-97D9-0CC2-90812A00E10F}" name="Source">
+      <GROUP id="{787616A3-ED16-5840-CDB3-E0642D8DCB3A}" name="Osc">
+        <FILE id="f2VVT4" name="OscManager.cpp" compile="1" resource="0" file="Source/Osc/OscManager.cpp"/>
+        <FILE id="wZqXoa" name="OscManager.h" compile="0" resource="0" file="Source/Osc/OscManager.h"/>
+      </GROUP>
+      <FILE id="Z4nO1t" name="ComponentFilmstrip.cpp" compile="1" resource="0"
+            file="Source/ComponentFilmstrip.cpp"/>
+      <FILE id="q0yPpm" name="ComponentFilmstrip.h" compile="0" resource="0"
+            file="Source/ComponentFilmstrip.h"/>
+      <FILE id="rVUfxe" name="PresetManager.cpp" compile="1" resource="0"
+            file="Source/PresetManager.cpp"/>
+      <FILE id="It9l45" name="PresetManager.h" compile="0" resource="0" file="Source/PresetManager.h"/>
+      <FILE id="agVGfC" name="PresetPanel.cpp" compile="1" resource="0" file="Source/PresetPanel.cpp"/>
+      <FILE id="N7Ok8U" name="PresetPanel.h" compile="0" resource="0" file="Source/PresetPanel.h"/>
+      <FILE id="lNQCqA" name="LevelMeter.cpp" compile="1" resource="0" file="Source/LevelMeter.cpp"/>
+      <FILE id="s7nsnD" name="LevelMeter.h" compile="0" resource="0" file="Source/LevelMeter.h"/>
+      <FILE id="Aaik7f" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="y7LXw9" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="FtWPMJ" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="xCltJX" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+    <GROUP id="{65F4A01F-3500-118F-E31A-212B1F5284F1}" name="Resources">
+      <FILE id="ydoLRs" name="E_R + rev 8.wav" compile="0" resource="1" file="Resources/E_R + rev 8.wav"/>
+      <FILE id="XBJazx" name="3 Rooms 01 Studio A  M-to-S.wav" compile="0"
+            resource="1" file="Resources/3 Rooms 01 Studio A  M-to-S.wav"/>
+      <FILE id="qokP8P" name="5 Ambiences 11 Long Ambience  M-to-S.wav" compile="0"
+            resource="1" file="Resources/5 Ambiences 11 Long Ambience  M-to-S.wav"/>
+      <FILE id="wNjiTR" name="emt 250 T2.2_Pre60ms_low1.5_high0.WAV" compile="0"
+            resource="1" file="Resources/emt 250 T2.2_Pre60ms_low1.5_high0.WAV"/>
+      <FILE id="A1idIJ" name="orban1.wav" compile="0" resource="1" file="Resources/orban1.wav"/>
+      <FILE id="mxaJza" name="stereo pan room.wav" compile="0" resource="1"
+            file="Resources/stereo pan room.wav"/>
+      <FILE id="vxd1jg" name="faIR_CornOnTheLeash.wav" compile="0" resource="1"
+            file="Resources/faIR_CornOnTheLeash.wav"/>
+      <GROUP id="{06B416D4-C672-87DC-C196-2FA7F54BA484}" name="Factory Presets">
+        <FILE id="aHtcyV" name="50_s Midrange and Reverb.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/50_s Midrange and Reverb.preset"/>
+        <FILE id="g9DA4l" name="Backseat Indie Rhythms.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Backseat Indie Rhythms.preset"/>
+        <FILE id="HYjhrO" name="Clean Double Indie Goodness.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Clean Double Indie Goodness.preset"/>
+        <FILE id="Ik5IT5" name="Country Twang.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Country Twang.preset"/>
+        <FILE id="g17jJ5" name="Dry n' Clean.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Dry n' Clean.preset"/>
+        <FILE id="hXCDSX" name="Indie Plate Verb.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Indie Plate Verb.preset"/>
+        <FILE id="NL0svy" name="Jazz or Gospel Tone.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Jazz or Gospel Tone.preset"/>
+        <FILE id="LnUqkD" name="Massive Roomy Rhythm.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Massive Roomy Rhythm.preset"/>
+        <FILE id="lDdTKU" name="Midwest Emo Breakup Rhythms .preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Midwest Emo Breakup Rhythms .preset"/>
+        <FILE id="Ff71su" name="Midwest Emo Clean Tele Tone.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Midwest Emo Clean Tele Tone.preset"/>
+        <FILE id="lFIbc2" name="Palm-Muted Indie Power Chords.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Palm-Muted Indie Power Chords.preset"/>
+        <FILE id="JFKMxq" name="RnB Sparkle.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/RnB Sparkle.preset"/>
+        <FILE id="tOlIR1" name="Shoegaze Clean Rhythms .preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Shoegaze Clean Rhythms .preset"/>
+        <FILE id="vAC3L9" name="Shoegaze Leads.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Shoegaze Leads.preset"/>
+        <FILE id="OsMMJT" name="Stroke Punk.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Stroke Punk.preset"/>
+        <FILE id="SCH6i1" name="Tweed Classic Rock Tone.preset" compile="0"
+              resource="1" file="Resources/Factory Presets/Tweed Classic Rock Tone.preset"/>
+        <FILE id="MKqFVF" name="Under The Sea.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Under The Sea.preset"/>
+        <FILE id="oXmHVl" name="Wet Clean 8th Delay.preset" compile="0" resource="1"
+              file="Resources/Factory Presets/Wet Clean 8th Delay.preset"/>
+      </GROUP>
+      <GROUP id="{1CDEF0B6-7FE1-4647-1F60-7A7ED36D37BA}" name="GUI">
+        <FILE id="hFmlTA" name="delaySyncSwitch1.png" compile="0" resource="1"
+              file="../../Blender/Guitar Amp/Fine Classics Renders/For Plugin/delaySyncSwitch1.png"/>
+        <GROUP id="{54D1C575-2B60-7C6E-1DB1-0A0FEE94F6E0}" name="Icons">
+          <FILE id="JZCeMZ" name="Amp.png" compile="0" resource="1" file="Resources/GUI/Icons/Amp.png"/>
+          <FILE id="OPMCXO" name="Fx.png" compile="0" resource="1" file="Resources/GUI/Icons/Fx.png"/>
+          <FILE id="OMbXE5" name="Info.png" compile="0" resource="1" file="Resources/GUI/Icons/Info.png"/>
+        </GROUP>
+        <GROUP id="{87E203C2-F866-8667-A7F5-A6A973F7E106}" name="Amp">
+          <FILE id="cXMVwE" name="+15DbButton.png" compile="0" resource="1" file="Resources/GUI/Amp/+15DbButton.png"/>
+          <FILE id="UHGfhU" name="Amp Bypass Button.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/Amp Bypass Button.png"/>
+          <FILE id="yf0xDq" name="new bass gain.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/new bass gain.png"/>
+          <FILE id="izjKAo" name="new mid gain.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/new mid gain.png"/>
+          <FILE id="DdAlZ6" name="new output gain.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/new output gain.png"/>
+          <FILE id="ZNCkPK" name="new treble gain.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/new treble gain.png"/>
+          <FILE id="e2LbjU" name="doubler Bypass.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/doubler Bypass.png"/>
+          <FILE id="Ozw3XO" name="new inputGain.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/new inputGain.png"/>
+          <FILE id="bh8Hwg" name="doubler Side.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/doubler Side.png"/>
+          <FILE id="DPDAgA" name="Doubler Amount.png" compile="0" resource="1"
+                file="Resources/GUI/Amp/Doubler Amount.png"/>
+        </GROUP>
+        <GROUP id="{EF472DDF-EB5A-DF5E-3B40-F40AB5F9396B}" name="Backgrounds">
+          <FILE id="CbHhTP" name="AmpBackground.png" compile="0" resource="1"
+                file="Resources/GUI/Backgrounds/AmpBackground.png"/>
+          <FILE id="c8zTFI" name="pedals2.png" compile="0" resource="1" file="Resources/GUI/Backgrounds/pedals2.png"/>
+        </GROUP>
+        <FILE id="COFeHB" name="bypassButton.png" compile="0" resource="1"
+              file="Resources/GUI/bypassButton.png"/>
+        <GROUP id="{04045C0C-C264-6ED3-22CC-0D5CCD753E03}" name="OverDrivePedal">
+          <FILE id="JyifhS" name="pedalOverdriveInput.png" compile="0" resource="1"
+                file="Resources/GUI/OverDrivePedal/pedalOverdriveInput.png"/>
+          <FILE id="LpVhOO" name="overDriveInputGain.png" compile="0" resource="1"
+                file="Resources/GUI/OverDrivePedal/overDriveInputGain.png"/>
+          <FILE id="xZzDmH" name="pedalBiasControl 2.png" compile="0" resource="1"
+                file="Resources/GUI/OverDrivePedal/pedalBiasControl 2.png"/>
+          <FILE id="gDlK8R" name="testDoggy.jpg" compile="0" resource="1" file="Resources/GUI/OverDrivePedal/testDoggy.jpg"/>
+        </GROUP>
+        <GROUP id="{9AA23ECF-87B1-BC9A-635C-A7C854B56884}" name="ReverbPedal">
+          <FILE id="H4ldMI" name="reverbSelectorLeft.png" compile="0" resource="1"
+                file="Resources/GUI/ReverbPedal/reverbSelectorLeft.png"/>
+          <FILE id="i8p8Py" name="reverbSelectorRight.png" compile="0" resource="1"
+                file="Resources/GUI/ReverbPedal/reverbSelectorRight.png"/>
+          <FILE id="VD8aFe" name="reverbBypass.png" compile="0" resource="1"
+                file="Resources/GUI/ReverbPedal/reverbBypass.png"/>
+          <FILE id="S8e4sq" name="reverbSelectorText.png" compile="0" resource="1"
+                file="Resources/GUI/ReverbPedal/reverbSelectorText.png"/>
+        </GROUP>
+      </GROUP>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="GuitarOsc"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="GuitarOsc"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_osc" path="../../../../Applications/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2022 targetFolder="Builds/VisualStudio2022">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" enablePluginBinaryCopyStep="1" vst3BinaryLocation="$(HOME)/Library/Audio/Plug-Ins/VST3/"
+                       aaxBinaryLocation="/Library/Application Support/Avid/Audio/Plug-Ins/"/>
+        <CONFIGURATION isDebug="0" name="Release" enablePluginBinaryCopyStep="1" vst3BinaryLocation="$(HOME)/Library/Audio/Plug-Ins/VST3/"
+                       aaxBinaryLocation="/Library/Application Support/Avid/Audio/Plug-Ins/"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="/Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_osc" path="/Applications/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2022>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_osc" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>
